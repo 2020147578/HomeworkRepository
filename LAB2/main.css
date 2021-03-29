@@ -1,0 +1,14 @@
+body { font-family: Arial, Helvetica, sans-serif;
+       background-color: lightgrey; }
+p { text-align: left; 
+    font-size: 12pt; 
+    color: black; }
+div { margin: 1em; 
+      padding: .5em; }
+.medium { border-width: medium; }
+.solid { border-style: solid; }
+.red { border-color: red; }
+.highlight { font-family: 'Times New Roman', Times, serif; }
+.larger { width: max-content; 
+          height: max-content; }
+.border { border: 5px solid #444; }

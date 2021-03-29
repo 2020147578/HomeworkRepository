@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>SignUp</title>
+        <link rel="stylesheet" type="text/css" href="main.css">
+    </head>
+    <body>
+        <p>
+            <div class="highlight border"><h2>Welcome to INTERNET-PROGRAMMING SHOP</h2></div>
+        </p>
+        <div class=""><a href="login.html">Login</a></div>
+        <div class="medium red solid"><a href="signup.html">Sign up</a></div><hr>
+        <form method="GET" autocomplete="on">
+            <p>
+                <div class="larger">개인정보 (필수)</div>
+            </p>
+            <p>
+                <label>이름 : <input name="name" type="text" placeholder="홍길동" required autofocus /></label> 
+            </p>
+            <p>
+                <label>생년월일 : <input name="date" type="date" required /></label>
+            </p>
+            <p>
+                <label for="numList">학년 : 
+                    <input name="grade" type="number" id="numList" list="grades" placeholder="학년을 선택해 주세요" required />
+                    <datalist id="grades">
+                        <option value="1">
+                        <option value="2">
+                        <option value="3">
+                        <option value="4">
+                    </datalist> 
+                </label>    
+            </p>
+            <p>
+                <label>전화번호 : <input name="phone" type="tel" placeholder="###-####-####" 
+                    pattern="\d{3}-\d{4}-\d{4}" required /></label>    
+            </p>
+            <p>
+                <label>유저 아이디 : <input name="ID" type="text" placeholder="아이디를 입력하세요" required /></label>    
+            </p>
+            <p>
+                <label>비밀번호 : <input name="password" type="password" placeholder="비밀번호를 입력하세요" required /></label>
+            </p>
+            <p>
+                <input type="submit" value="Sign Up" />
+                <input type="reset" value="Cancel" />
+            </p><hr>
+        </form>
+    </body>
+</html>
