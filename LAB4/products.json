@@ -1,0 +1,92 @@
+[
+  {
+    "name": "달러구트 꿈 백화점",
+    "price": 13800,
+    "image": "p1.jpeg",
+    "type": "fiction"
+  },
+  {
+    "name": "아몬드",
+    "price": 12000,
+    "image": "p2.jpeg",
+    "type": "fiction"
+  },
+  {
+    "name": "달까지 가자",
+    "price": 14000,
+    "image": "p3.jpeg",
+    "type": "fiction"
+  },
+  {
+    "name": "부서진 여름",
+    "price": 14500,
+    "image": "p4.jpeg",
+    "type": "fiction"
+  },
+  {
+    "name": "소년이 온다",
+    "price": 14000,
+    "image": "p5.jpeg",
+    "type": "fiction"
+  },
+  {
+    "name": "Clean Code",
+    "price": 33000,
+    "image": "p6.jpeg",
+    "type": "computing"
+  },
+  {
+    "name": "이것이 C#이다",
+    "price": 34000,
+    "image": "p7.jpeg",
+    "type": "computing"
+  },
+  {
+    "name": "소프트웨어 장인",
+    "price": 22000,
+    "image": "p8.jpeg",
+    "type": "computing"
+  },
+  {
+    "name": "고성능 파이썬",
+    "price": 36000,
+    "image": "p9.jpeg",
+    "type": "computing"
+  },
+  {
+    "name": "마이크로서비스 패턴",
+    "price": 38000,
+    "image": "p10.jpeg",
+    "type": "computing"
+  },
+  {
+    "name": "역사의 쓸모",
+    "price": 15000,
+    "image": "p11.jpeg",
+    "type": "history"
+  },
+  {
+    "name": "메트로폴리스",
+    "price": 27000,
+    "image": "p12.jpeg",
+    "type": "history"
+  },
+  {
+    "name": "역사의 역사",
+    "price": 16000,
+    "image": "p13.jpeg",
+    "type": "history"
+  },
+  {
+    "name": "문명과 물질",
+    "price": 19000,
+    "image": "p14.jpeg",
+    "type": "history"
+  },
+  {
+    "name": "역사 사용설명서",
+    "price": 15000,
+    "image": "p15.jpeg",
+    "type": "history"
+  }
+]
